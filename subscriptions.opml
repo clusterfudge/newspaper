@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Sean Fitzgerald from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Reuters: Top News" title="Reuters: Top News" type="rss" xmlUrl="http://feeds.reuters.com/reuters/topNews" htmlUrl="http://www.reuters.com/"/>
+    <outline text="comics" title="comics">
+      <outline text="Poorly Drawn Lines" title="Poorly Drawn Lines" type="rss" xmlUrl="http://feeds.feedburner.com/PoorlyDrawnLines" htmlUrl="http://poorlydrawnlines.com/"/>
+      <outline text="Broodhollow" title="Broodhollow" type="rss" xmlUrl="http://feedpress.me/broodhollow" htmlUrl="http://broodhollow.chainsawsuit.com/"/>
+      <outline text="The Trenches" title="The Trenches" type="rss" xmlUrl="http://trenchescomic.com/feed" htmlUrl="http://trenchescomic.com/"/>
+      <outline text="Bug" title="Bug" type="rss" xmlUrl="http://www.bugcomic.com/feed/" htmlUrl="http://www.bugmartini.com/"/>
+      <outline text="Ctrl+Alt+Del" title="Ctrl+Alt+Del" type="rss" xmlUrl="http://www.cad-comic.com/rss/rss.xml" htmlUrl="http://www.cad-comic.com/"/>
+      <outline text="Fuck You, Penguin" title="Fuck You, Penguin" type="rss" xmlUrl="http://fuckyoupenguin.blogspot.com/feeds/posts/default" htmlUrl="http://www.fupenguin.com/"/>
+      <outline text="Explosm.net" title="Explosm.net" type="rss" xmlUrl="http://feeds.feedburner.com/Explosm" htmlUrl="http://www.explosm.net/rss.php"/>
+      <outline text="RSSMix.com Mix ID 70857" title="RSSMix.com Mix ID 70857" type="rss" xmlUrl="http://feeds.feedburner.com/Starslip" htmlUrl="http://starslip.chainsawsuit.com/"/>
+      <outline text="A Softer World" title="A Softer World" type="rss" xmlUrl="http://www.rsspect.com/rss/asw.xml" htmlUrl="http://www.asofterworld.com/"/>
+      <outline text="PvPonline" title="PvPonline" type="rss" xmlUrl="http://www.pvponline.com/feed/" htmlUrl="http://www.pvponline.com/"/>
+      <outline text="QC RSS" title="QC RSS" type="rss" xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net/"/>
+      <outline text="Dinosaur Comics" title="Dinosaur Comics" type="rss" xmlUrl="http://www.rsspect.com/rss/qwantz.xml" htmlUrl="http://www.qwantz.com/"/>
+      <outline text="indexed" title="indexed" type="rss" xmlUrl="http://indexed.blogspot.com/feeds/posts/default" htmlUrl="http://thisisindexed.com/"/>
+      <outline text="Penny-Arcade" title="Penny-Arcade" type="rss" xmlUrl="http://www.penny-arcade.com/rss.xml" htmlUrl="http://penny-arcade.com/"/>
+      <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://www.xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    </outline>
+    <outline text="mycroft" title="mycroft">
+      <outline text="Mycroft Community - Latest posts" title="Mycroft Community - Latest posts" type="rss" xmlUrl="https://community.mycroft.ai/posts.rss" htmlUrl="http://community.mycroft.ai"/>
+      <outline text="Mycroft" title="Mycroft" type="rss" xmlUrl="https://mycroft.ai/feed/" htmlUrl="https://mycroft.ai/"/>
+      <outline text="Comments on: Blog" title="Comments on: Blog" type="rss" xmlUrl="https://mycroft.ai/blog/feed/" htmlUrl="https://mycroft.ai/"/>
+      <outline text="Kickstarter: Mycroft: An Open Source Artificial Intelligence For Everyone" title="Kickstarter: Mycroft: An Open Source Artificial Intelligence For Everyone" type="rss" xmlUrl="https://www.kickstarter.com/projects/aiforeveryone/mycroft-an-open-source-artificial-intelligence-for/posts.atom" htmlUrl="https://www.kickstarter.com/projects/aiforeveryone/mycroft-an-open-source-artificial-intelligence-for/posts"/>
+    </outline>
+    <outline text="technology" title="technology">
+      <outline text="Stevey's Blog Rants" title="Stevey's Blog Rants" type="rss" xmlUrl="http://steve-yegge.blogspot.com/feeds/posts/default" htmlUrl="http://steve-yegge.blogspot.com/"/>
+      <outline text="Big Problems, Crappy Computers" title="Big Problems, Crappy Computers" type="rss" xmlUrl="http://clusterfudge.wordpress.com/feed/" htmlUrl="http://clusterfudge.wordpress.com/"/>
+      <outline text="Engadget" title="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com/"/>
+      <outline text="Jon Udell" title="Jon Udell" type="rss" xmlUrl="http://blog.jonudell.net/feed/" htmlUrl="http://blog.jonudell.net/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://slashdot.org/index.rss" htmlUrl="http://slashdot.org/"/>
+      <outline text="Wired News: Top Stories" title="Wired News: Top Stories" type="rss" xmlUrl="http://www.wired.com/news/feeds/rss2/0,2610,,00.xml" htmlUrl="http://www.wired.com/"/>
+    </outline>
+    <outline text="Engineering" title="Engineering">
+      <outline text="Udacity - Climb Higher" title="Udacity - Climb Higher" type="rss" xmlUrl="http://blog.udacity.com/feed" htmlUrl="http://blog.udacity.com/"/>
+      <outline text="Joel on Software" title="Joel on Software" type="rss" xmlUrl="http://www.joelonsoftware.com/rss.xml" htmlUrl="http://www.joelonsoftware.com/"/>
+      <outline text="Facebook Code" title="Facebook Code" type="rss" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/"/>
+      <outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="http://blog.codinghorror.com/"/>
+      <outline text="Plex" title="Plex" type="rss" xmlUrl="https://blog.plex.tv/feed/" htmlUrl="https://blog.plex.tv/"/>
+      <outline text="Amazon Web Services Blog" title="Amazon Web Services Blog" type="rss" xmlUrl="http://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
+      <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.com/blog.atom" htmlUrl="https://github.com/blog"/>
+      <outline text="The GitHub Engineering Blog" title="The GitHub Engineering Blog" type="rss" xmlUrl="https://github.com/blog/engineering.atom" htmlUrl="https://github.com/blog"/>
+      <outline text="HipChat Blog" title="HipChat Blog" type="rss" xmlUrl="http://blog.hipchat.com/feed/" htmlUrl="https://blog.hipchat.com/"/>
+      <outline text="Bitbucket" title="Bitbucket" type="rss" xmlUrl="http://blog.bitbucket.org/feed/" htmlUrl="http://blog.bitbucket.org/"/>
+      <outline text="The Netflix Tech Blog" title="The Netflix Tech Blog" type="rss" xmlUrl="http://techblog.netflix.com/rss.xml" htmlUrl="http://techblog.netflix.com/"/>
+      <outline text="The Daily WTF" title="The Daily WTF" type="rss" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/"/>
+    </outline>
+    <outline text="science" title="science">
+      <outline text="0xDE" title="0xDE" type="rss" xmlUrl="https://11011110.livejournal.com/data/rss" htmlUrl="https://11011110.livejournal.com/"/>
+      <outline text="Cosmic Variance" title="Cosmic Variance" type="rss" xmlUrl="http://cosmicvariance.com/feed/" htmlUrl="http://blogs.discovermagazine.com/cosmicvariance"/>
+      <outline text="Data Mining: Text Mining, Visualization and Social Media" title="Data Mining: Text Mining, Visualization and Social Media" type="rss" xmlUrl="http://datamining.typepad.com/data_mining/atom.xml" htmlUrl="http://datamining.typepad.com/data_mining/"/>
+      <outline text="Machine Learning (Theory)" title="Machine Learning (Theory)" type="rss" xmlUrl="http://hunch.net/?feed=rss2" htmlUrl="http://hunch.net/"/>
+      <outline text="Scientific American - Official RSS Feed" title="Scientific American - Official RSS Feed" type="rss" xmlUrl="http://www.sciam.com/xml/sciam.xml" htmlUrl="http://www.scientificamerican.com/"/>
+    </outline>
+    <outline text="geeky" title="geeky">
+      <outline text="Rands In Repose" title="Rands In Repose" type="rss" xmlUrl="http://www.randsinrepose.com/index.xml" htmlUrl="http://randsinrepose.com/"/>
+      <outline text="Geekologie - Gadgets, Gizmos, and Awesome" title="Geekologie - Gadgets, Gizmos, and Awesome" type="rss" xmlUrl="http://www.geekologie.com/index.xml" htmlUrl="http://geekologie.com/"/>
+      <outline text="Woot! - One Day, One Deal" title="Woot! - One Day, One Deal" type="rss" xmlUrl="http://shirt.woot.com/Blog/Feed.ashx" htmlUrl="http://shirt.woot.com/Blog/Feed.ashx"/>
+      <outline text="xkcd" title="xkcd" type="rss" xmlUrl="http://blag.xkcd.com/feed/" htmlUrl="http://blog.xkcd.com/"/>
+      <outline text="Adaptive Path" title="Adaptive Path" type="rss" xmlUrl="http://feeds.feedburner.com/adaptivepath" htmlUrl="http://www.adaptivepath.com/"/>
+      <outline text="Cool Tools" title="Cool Tools" type="rss" xmlUrl="http://feeds.feedburner.com/CoolTools" htmlUrl="http://kk.org/cooltools"/>
+      <outline text="Hack a Day" title="Hack a Day" type="rss" xmlUrl="http://www.hackaday.com/rss.xml" htmlUrl="http://hackaday.com/"/>
+      <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://lifehacker.com/rss" htmlUrl="http://lifehacker.com/"/>
+      <outline text="PVRblog" title="PVRblog" type="rss" xmlUrl="http://www.pvrblog.com/pvr/index.rdf" htmlUrl="http://www.pvrblog.com/"/>
+      <outline text="The Escapist" title="The Escapist" type="rss" xmlUrl="http://www.escapistmagazine.com/rss/news" htmlUrl="http://www.escapistmagazine.com/"/>
+      <outline text="Andy&amp;#39;s Math/CS page" title="Andy&amp;#39;s Math/CS page" type="rss" xmlUrl="http://andysresearch.blogspot.com/feeds/posts/default" htmlUrl="http://andysresearch.blogspot.com/"/>
+    </outline>
+    <outline text="bungie" title="bungie">
+      <outline text="Bungie.Net Content Feed" title="Bungie.Net Content Feed" type="rss" xmlUrl="http://www.bungie.net/en-us/Rss/News?itemsPerPage=9&amp;currentPage=1" htmlUrl="http://www.bungie.net/en-us/rss/News?currentPage=1&amp;itemsPerPage=9&amp;category=All"/>
+    </outline>
+    <outline text="N00bs" title="N00bs">
+      <outline text="TheFunded.com" title="TheFunded.com" type="rss" xmlUrl="http://feeds.feedburner.com/TheFunded" htmlUrl="http://www.thefunded.com/"/>
+      <outline text="VentureBeat" title="VentureBeat" type="rss" xmlUrl="http://feeds.feedburner.com/Venturebeat" htmlUrl="http://venturebeat.com"/>
+      <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/Techcrunch" htmlUrl="http://www.techcrunch.com"/>
+      <outline text="Valleywag" title="Valleywag" type="rss" xmlUrl="http://feeds.gawker.com/valleywag/full" htmlUrl="http://valleywag.gawker.com/"/>
+    </outline>
+  </body>
+</opml>
